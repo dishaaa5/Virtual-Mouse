@@ -23,8 +23,5 @@ pip install opencv-python mediapipe pyautogui
 python virtualmouse.py
 ```
 
-## 🖼️ Demo
-*(Add a GIF or screenshot here)*
-
 ## 📚 Inspiration
 Built as part of exploring gesture-based control systems and HCI using MediaPipe.

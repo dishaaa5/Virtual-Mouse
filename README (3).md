@@ -25,3 +25,6 @@ python virtualmouse.py
 
 ## 📚 Inspiration
 Built as part of exploring gesture-based control systems and HCI using MediaPipe.
+
+## Author
+Disha / https://github.com/dishaaa5
